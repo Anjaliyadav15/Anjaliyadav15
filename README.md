@@ -1,12 +1,6 @@
- Hi there @Anjaliyadav15👋 Anjali Yadav
-- 👀 I’m interested 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns:She/Her
-- ⚡ Fun fact:
+Hello! 👋 I'm Anjali Yadav, a dedicated computer science student pursuing my bachelor's degree at Banasthali Vidyapith, the second-largest women's university globally. Proficient in C, C++, OOPs, Data Structures, and SQL, I'm passionate about coding and quick to embrace challenges. Beyond academics, I am a state-level athlete excelling in kho-kho and table tennis, showcasing my commitment to both mental and physical pursuits. Eager to explore new opportunities and continuously expand my knowledge, I approach every endeavor with enthusiasm and determination. As a developer, I enjoy turning ideas into solutions through coding, and my competitive spirit extends from the world of sports to the realm of technology. Let's connect and collaborate! 🚀
 
-<!---
-Anjaliyadav15/Anjaliyadav15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+
